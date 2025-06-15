@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h2>✨ ¡Hola! Soy Sandra – <em>Technical Visual Artist</em> ✨</h2><br><p>Te cuento un poquito sobre mí para que nos conozcamos mejor:</p><br><ul><br>  <li>🎓 Recién graduada de un <strong>bootcamp de desarrollo Full Stack</strong> (¡ahora sé lo que significa "backend" sin llorar!).</li><br>  <li>🎮 Vengo del mundo de los <strong>videojuegos</strong>, donde trabajaba como <strong>generalista de arte</strong>: modelado, texturas, UI... lo que hiciera falta.</li><br>  <li>💡 Enamorada del <strong>mundo indie</strong> y de los proyectos con alma propia.</li><br>  <li>🧠 Me obsesiona una <strong>buena UI/UX</strong>: clara, intuitiva y con estilo.</li><br>  <li>🔄 Me encanta mezclar lo visual con lo funcional para crear <strong>experiencias completas</strong>.</li><br>  <li>🙌 <strong>¡Gracias por visitar mi perfil!</strong> Si tienes una idea loca o un proyecto bonito, <strong>no dudes en escribirme</strong>.</li><br></ul><br>
 
 
