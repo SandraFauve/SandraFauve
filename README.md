@@ -1,5 +1,14 @@
-## ✨ ¡Hola! Soy Sandra – Technical Visual Artist ✨
-<p>Te cuento un poquito sobre mí para que nos conozcamos mejor:</p><br><ul><li>🎓 Recién graduada de un <strong>bootcamp de desarrollo Full Stack</strong></li><br>  <li>🎮 Vengo del mundo de los <strong>videojuegos</strong>, donde trabajaba como <strong>generalista de arte</strong>: modelado, texturas, UI... lo que hiciera falta, vaya.</li><br>  <li>💡 Enamorada del <strong>mundo indie</strong></li><br>  <li>🧠 Me obsesiona una <strong>buena UI/UX</strong>: clara, intuitiva y con estilo.</li><br>  <li>🔄 Me encanta mezclar lo visual con lo funcional para crear <strong>experiencias completas</strong>.</li><br><li>🎬 Actualmente lidero un <strong>departamento de producción en cine</strong>, aunque echo de menos ensuciarme las manos creando.</li><br><li>🤝 Llevo más de <strong>7 años colaborando con artistas</strong>, aportando la base técnica que necesitan para dar vida a sus ideas.</li><br></ul>🙌 <strong>¡Gracias por visitar mi perfil!</strong> Si tienes una idea loca o un proyecto bonito, <strong>no dudes en escribirme</strong>.<br><br>
+## ✨ Hello! I am Sandra, Full Stack developer✨
+<p>Let me tell you a bit about myself so we can get to know each other better:</p><br>
+<ul>
+  <li>🎮 I come from the <strong>video game world</strong>, where I worked as a <strong>generalist artist</strong>: modeling, texturing, UI... whatever was needed.</li><br>
+  <li>💡 Deeply in love with the <strong>indie scene</strong></li><br>
+  <li>🧠 I'm obsessed with <strong>good UI/UX</strong>: clear, intuitive, and stylish.</li><br>
+  <li>🔄 I love mixing visuals with functionality to create <strong>well-rounded experiences</strong>.</li><br>
+  <li>🎬 Currently leading a <strong>film production department</strong>, although I miss getting my hands dirty making stuff.</li><br>
+  <li>🤝 I've spent over <strong>7 years collaborating with artists</strong>, bringing the technical foundation they need to bring their ideas to life.</li><br>
+</ul>
+🙌 <strong>Thanks for visiting my profile!</strong> If you’ve got a wild idea or a beautiful project, <strong>don’t hesitate to reach out</strong>.<br><br>
 
 
 ## 🌐 Socials:
