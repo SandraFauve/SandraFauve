@@ -1,11 +1,11 @@
-## ✨ Hello! I am Sandra, Full Stack developer✨
+## ✨ Hello! I am Sandra, UI/UX designer✨
 <p>Let me tell you a bit about myself so we can get to know each other better:</p><br>
 <ul>
   <li>🎮 I come from the <strong>video game world</strong>, where I worked as a <strong>generalist artist</strong>: modeling, texturing, UI... whatever was needed.</li><br>
   <li>💡 Deeply in love with the <strong>indie scene</strong></li><br>
-  <li>🧠 I'm obsessed with <strong>good UI/UX</strong>: clear, intuitive, and stylish.</li><br>
+  <li>🧠 I'm obsessed with <strong>design</strong>: clear, intuitive, and stylish.</li><br>
   <li>🔄 I love mixing visuals with functionality to create <strong>well-rounded experiences</strong>.</li><br>
-  <li>🎬 Currently leading a <strong>film production department</strong>, although I miss getting my hands dirty making stuff.</li><br>
+  <li>🎬 Currently lead VFX Artist<strong> on the film industry.</strong></li><br>
   <li>🤝 I've spent over <strong>7 years collaborating with artists</strong>, bringing the technical foundation they need to bring their ideas to life.</li><br>
 </ul>
 🙌 <strong>Thanks for visiting my profile!</strong> If you’ve got a wild idea or a beautiful project, <strong>don’t hesitate to reach out</strong>.<br><br>
