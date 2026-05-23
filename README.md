@@ -6,7 +6,7 @@
   <li> Also really obsessed with <strong>pipelines</strong>: closed, clear and tested.</li><br>
   <li> I want to mix visuals with functionality to create <strong>well-rounded experiences</strong>.</li><br>
   <li> I've spent over <strong>7 years collaborating with artists</strong>, bringing the technical foundation they need to bring their ideas to life.</li><br>
-  <li> I'm currently expanding into Godot, learning to code games!</li><br>
+  <li> I'm currently expanding into Godot, <strong>learning to code games!</strong></li><br>
 </ul>
 <strong>Thanks for visiting my profile!</strong> If you’ve got a wild idea or a cool project, <strong>don’t hesitate to reach out</strong>.<br><br>
 
