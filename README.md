@@ -15,6 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangomez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagosanche@gmail.com) 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Maya](https://img.shields.io/badge/maya-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-%23E8603C.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23445566.svg?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
