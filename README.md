@@ -3,7 +3,7 @@
 <ul>
   <li>🎮 I come from the <strong>video game and film industries</strong>, where I worked as <strong>Technical Artist</strong> focusing on Rigging, Pipeline TD and Render</li><br>
   <li>💡 I am deeply in love with the <strong>indie scene.</strong></li><br>
-  <li>🧠 I'm obsessed with <strong>pipelines</strong>: clear, intuitive, and stylish.</li><br>
+  <li>🧠 I'm obsessed with <strong>pipelines</strong>: closed, clear and tested.</li><br>
   <li>🔄 I love mixing visuals with functionality to create <strong>well-rounded experiences</strong>.</li><br>
   <li>🤝 I've spent over <strong>7 years collaborating with artists</strong>, bringing the technical foundation they need to bring their ideas to life.</li><br>
 </ul>
