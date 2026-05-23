@@ -17,4 +17,6 @@
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Maya](https://img.shields.io/badge/maya-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-%23E8603C.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23445566.svg?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-%23E8603C.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23445566.svg?style=for-the-badge&logo=blackmagicdesign&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white) 
